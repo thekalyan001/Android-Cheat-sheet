@@ -1,4 +1,4 @@
-# Android-Cheat-sheet
+# Android-Cheat-sheet-algorithms
 Cheat Sheet for Android Interviews
 
 ## Topics
